@@ -1,0 +1,22 @@
+{
+    "scope": "/",
+    "name": "my-todo",
+    "short_name": "my-todo",
+    "start_url": "/",
+    "display": "standalone",
+    "description": "a vue todo",
+    "orientation": "portrait",
+    "theme_color": "#00aacc",
+    "background_color": "#fff",
+    "icons": [{
+      "src": "./mytodolist-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "./mytodolist-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+    ]
+}
